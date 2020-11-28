@@ -1,4 +1,6 @@
 # nHentai
+## How to use?
+Type `https://nhentai.net/g/your-code-here` in your browser.
 ```
 173203 252544 290886 331428
 293053 311712 244900 322614
@@ -17,3 +19,15 @@
 310390 309990 253091 322930
 173023 198432 333337 332500
 321298 177013 334145 333312
+172514 239394 257013 267847
+248031 233098 227249 317089
+```
+
+# Hentai Nexus
+## How to use?
+Type `hentainexus.com/view/your-code-here` in your browser.
+```
+8680 8772 8784
+```
+# How to contribute?
+Edit this file and make a pull request. I will check the changes you've made and if the code is valid, then I will merge it. If not, changes will be declined.
