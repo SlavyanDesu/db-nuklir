@@ -1,6 +1,6 @@
 # nHentai
 ## How to use?
-Type `https://nhentai.net/g/your-code-here` in your browser.
+Type `nhentai.net/g/your-code-here` in your browser.
 ```
 173203 252544 290886 331428
 293053 311712 244900 322614
